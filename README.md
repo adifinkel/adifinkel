@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @adifinkel
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science at Tel Aviv university
 - 💞️ I’m looking to collaborate on new projects
