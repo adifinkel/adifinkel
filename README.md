@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @adifinkel
-- 🌱 I’m currently learning computer science at Tel Aviv university
-- 💞️ I’m looking to collaborate on new projects
+- 👋 Hi, I’m @adifinki aka Adi Finkelstein
+- 🌱 I’m currently learning computer science and management at Tel Aviv university
+- 💞️ I’m looking to collaborate on new projects like my latest one as research assistant
